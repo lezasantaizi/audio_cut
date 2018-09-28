@@ -1,5 +1,5 @@
 # audio_cut
-语音切割，python ，webrtc
+[语音切割](https://zhuanlan.zhihu.com/p/45328164?just_published=2)，python ，webrtc，
 
 ## Tips
 1. 使用 pydub 读取音频文件
